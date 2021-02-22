@@ -1,0 +1,386 @@
+-->0 HEAD
+<-- 0 | HEAD | Y |  
+-->1 SOUR Geni.com
+<-- 1 | SOUR | N |  Geni.com 
+-->2 VERS 1.0
+<-- 2 | VERS | N |  1.0 
+-->1 DATE 13 FEB 2021
+<-- 1 | DATE | N |  13 FEB 2021
+-->2 TIME 17:47:30
+<-- 2 | TIME | N |  17:47:30
+-->1 SUBM @S6000000172547686493@
+<-- 1 | SUBM | N |  @S6000000172547686493@ 
+-->1 GEDC
+<-- 1 | GEDC | N |  
+-->2 VERS 5.5.1
+<-- 2 | VERS | N |  5.5.1 
+-->2 FORM LINEAGE-LINKED
+<-- 2 | FORM | N |  LINEAGE-LINKED
+-->1 CHAR UTF-8
+<-- 1 | CHAR | N |  UTF-8 
+-->0 @I6000000172547686493@ INDI
+<-- 0 | @I6000000172547686493@ | N |  INDI
+-->1 NAME Amisha /Patel/
+<-- 1 | NAME | Y |  Amisha /Patel/
+-->2 GIVN Amisha
+<-- 2 | GIVN | N |  Amisha
+-->2 _MARNM Patel
+<-- 2 | _MARNM | N |  Patel
+-->1 SEX U
+<-- 1 | SEX | Y |  U
+-->1 BIRT
+<-- 1 | BIRT | Y |
+-->2 DATE 21 OCT 1994
+<-- 2 | DATE | Y |  21 OCT 1994
+-->1 ADDR amishap.2022@gmail.com
+<-- 1 | ADDR | N |  amishap.2022@gmail.com
+-->2 EMAIL amishap.2022@gmail.com
+<-- 2 | EMAIL | N |  amishap.2022@gmail.com
+-->1 FAMC @F6000000172547623620@
+<-- 1 | FAMC | Y |  @F6000000172547623620@
+-->1 RFN geni:6000000172547686493
+<-- 1 | RFN | N |  geni:6000000172547686493
+-->1 CHAN
+<-- 1 | CHAN | N |
+-->2 DATE 13 FEB 2021
+<-- 2 | DATE | Y |  13 FEB 2021
+-->3 TIME 17:44:08
+<-- 3 | TIME | N |  17:44:08
+-->0 @I6000000172548472221@ INDI
+<-- 0 | @I6000000172548472221@ | N |  INDI
+-->1 NAME Jigs /Roy/
+<-- 1 | NAME | Y |  Jigs /Roy/
+-->2 GIVN Jigs
+<-- 2 | GIVN | N |  Jigs
+-->2 _MARNM Roy
+<-- 2 | _MARNM | N |  Roy
+-->1 SEX M
+<-- 1 | SEX | Y |  M
+-->1 BIRT
+<-- 1 | BIRT | Y |
+-->2 DATE 28 MAR 1972
+<-- 2 | DATE | Y |  28 MAR 1972
+-->1 OCCU
+<-- 1 | OCCU | N |
+-->1 FAMC @F6000000172549019039@
+<-- 1 | FAMC | Y |  @F6000000172549019039@
+-->1 FAMS @F6000000172547623620@
+<-- 1 | FAMS | Y |  @F6000000172547623620@
+-->1 RFN geni:6000000172548472221
+<-- 1 | RFN | N |  geni:6000000172548472221
+-->1 CHAN
+<-- 1 | CHAN | N |
+-->2 DATE 13 FEB 2021
+<-- 2 | DATE | Y |  13 FEB 2021
+-->3 TIME 17:33:01
+<-- 3 | TIME | N |  17:33:01
+-->0 @I6000000172548785950@ INDI
+<-- 0 | @I6000000172548785950@ | N |  INDI
+-->1 NAME Urvi /Roy/
+<-- 1 | NAME | Y |  Urvi /Roy/
+-->2 GIVN Urvi
+<-- 2 | GIVN | N |  Urvi
+-->2 _MARNM Roy
+<-- 2 | _MARNM | N |  Roy
+-->1 SEX F
+<-- 1 | SEX | Y |  F
+-->1 BIRT
+<-- 1 | BIRT | Y |
+-->2 DATE 13 SEP 1975
+<-- 2 | DATE | Y |  13 SEP 1975
+-->1 OCCU
+<-- 1 | OCCU | N |
+-->1 FAMS @F6000000172547623620@
+<-- 1 | FAMS | Y |  @F6000000172547623620@
+-->1 RFN geni:6000000172548785950
+<-- 1 | RFN | N |  geni:6000000172548785950
+-->1 CHAN
+<-- 1 | CHAN | N |
+-->2 DATE 13 FEB 2021
+<-- 2 | DATE | Y |  13 FEB 2021
+-->3 TIME 17:33:55
+<-- 3 | TIME | N |  17:33:55
+-->0 @I6000000172548776176@ INDI
+<-- 0 | @I6000000172548776176@ | N |  INDI
+-->1 NAME Prit /Roy/
+<-- 1 | NAME | Y |  Prit /Roy/
+-->2 GIVN Prit
+<-- 2 | GIVN | N |  Prit
+-->2 _MARNM Roy
+<-- 2 | _MARNM | N |  Roy
+-->1 SEX M
+<-- 1 | SEX | Y |  M
+-->1 BIRT
+<-- 1 | BIRT | Y |
+-->2 DATE 27 JUL 1999
+<-- 2 | DATE | Y |  27 JUL 1999
+-->1 OCCU
+<-- 1 | OCCU | N |
+-->1 FAMC @F6000000172547623620@
+<-- 1 | FAMC | Y |  @F6000000172547623620@
+-->1 RFN geni:6000000172548776176
+<-- 1 | RFN | N |  geni:6000000172548776176
+-->1 CHAN
+<-- 1 | CHAN | N |
+-->2 DATE 13 FEB 2021
+<-- 2 | DATE | Y |  13 FEB 2021
+-->3 TIME 17:34:37
+<-- 3 | TIME | N |  17:34:37
+-->0 @I6000000172548415345@ INDI
+<-- 0 | @I6000000172548415345@ | N |  INDI
+-->1 NAME Usha /Roy/
+<-- 1 | NAME | Y |  Usha /Roy/
+-->2 GIVN Usha
+<-- 2 | GIVN | N |  Usha
+-->2 _MARNM Roy
+<-- 2 | _MARNM | N |  Roy
+-->1 SEX F
+<-- 1 | SEX | Y |  F
+-->1 BIRT
+<-- 1 | BIRT | Y |
+-->2 DATE 25 DEC 1945
+<-- 2 | DATE | Y |  25 DEC 1945
+-->1 OCCU
+<-- 1 | OCCU | N |
+-->1 FAMC @F6000000172549282035@
+<-- 1 | FAMC | Y |  @F6000000172549282035@
+-->1 FAMS @F6000000172549019039@
+<-- 1 | FAMS | Y |  @F6000000172549019039@
+-->1 RFN geni:6000000172548415345
+<-- 1 | RFN | N |  geni:6000000172548415345
+-->1 CHAN
+<-- 1 | CHAN | N |
+-->2 DATE 13 FEB 2021
+<-- 2 | DATE | Y |  13 FEB 2021
+-->3 TIME 17:36:38
+<-- 3 | TIME | N |  17:36:38
+-->0 @I6000000172548516431@ INDI
+<-- 0 | @I6000000172548516431@ | N |  INDI
+-->1 NAME Sant /Roy/
+<-- 1 | NAME | Y |  Sant /Roy/
+-->2 GIVN Sant
+<-- 2 | GIVN | N |  Sant
+-->2 _MARNM Roy
+<-- 2 | _MARNM | N |  Roy
+-->1 SEX M
+<-- 1 | SEX | Y |  M
+-->1 BIRT
+<-- 1 | BIRT | Y |
+-->2 DATE 10 FEB 1945
+<-- 2 | DATE | Y |  10 FEB 1945
+-->1 DEAT
+<-- 1 | DEAT | Y |
+-->2 DATE 15 DEC 2016
+<-- 2 | DATE | Y |  15 DEC 2016
+-->1 OCCU
+<-- 1 | OCCU | N |
+-->1 FAMS @F6000000172549019039@
+<-- 1 | FAMS | Y |  @F6000000172549019039@
+-->1 RFN geni:6000000172548516431
+<-- 1 | RFN | N |  geni:6000000172548516431
+-->1 CHAN
+<-- 1 | CHAN | N |  
+-->2 DATE 13 FEB 2021
+<-- 2 | DATE | Y |  13 FEB 2021
+-->3 TIME 17:36:12
+<-- 3 | TIME | N |  17:36:12
+-->0 @I6000000172549019035@ INDI
+<-- 0 | @I6000000172549019035@ | N |  INDI
+-->1 NAME kalp /Roy/
+<-- 1 | NAME | Y |  kalp /Roy/
+-->2 GIVN kalp
+<-- 2 | GIVN | N |  kalp
+-->2 _MARNM Roy
+<-- 2 | _MARNM | N |  Roy
+-->1 SEX M
+<-- 1 | SEX | Y |  M
+-->1 BIRT
+<-- 1 | BIRT | Y |
+-->2 DATE 5 APR 1975
+<-- 2 | DATE | Y |  5 APR 1975
+-->1 OCCU
+<-- 1 | OCCU | N |
+-->1 FAMC @F6000000172549019039@
+<-- 1 | FAMC | Y |  @F6000000172549019039@
+-->1 FAMS @F6000000172549405913@
+<-- 1 | FAMS | Y |  @F6000000172549405913@
+-->1 RFN geni:6000000172549019035
+<-- 1 | RFN | N |  geni:6000000172549019035
+-->1 CHAN
+<-- 1 | CHAN | N |
+-->2 DATE 13 FEB 2021
+<-- 2 | DATE | Y |  13 FEB 2021
+-->3 TIME 17:35:18
+<-- 3 | TIME | N |  17:35:18
+-->0 @I6000000172548278358@ INDI
+<-- 0 | @I6000000172548278358@ | N |  INDI
+-->1 NAME Rikku /Roy/
+<-- 1 | NAME | Y |  Rikku /Roy/
+-->2 GIVN Rikku
+<-- 2 | GIVN | N |  Rikku
+-->2 SURN Roy
+<-- 2 | SURN | N |  Roy
+-->2 _MARNM Sam
+<-- 2 | _MARNM | N |  Sam
+-->1 SEX F
+<-- 1 | SEX | Y |  F
+-->1 BIRT
+<-- 1 | BIRT | Y |
+-->2 DATE 30 OCT 1979
+<-- 2 | DATE | Y |  30 OCT 1979
+-->1 OCCU
+<-- 1 | OCCU | N |
+-->1 FAMC @F6000000172549019039@
+<-- 1 | FAMC | Y |  @F6000000172549019039@
+-->1 FAMS @F6000000172548388540@
+<-- 1 | FAMS | Y |  @F6000000172548388540@
+-->1 RFN geni:6000000172548278358
+<-- 1 | RFN | N |  geni:6000000172548278358
+-->1 CHAN
+<-- 1 | CHAN | N |
+-->2 DATE 13 FEB 2021
+<-- 2 | DATE | Y |  13 FEB 2021
+-->3 TIME 17:40:33
+<-- 3 | TIME | N |  17:40:33
+-->0 @I6000000172548391395@ INDI
+<-- 0 | @I6000000172548391395@ | N |  INDI
+-->1 NAME rita /crook/
+<-- 1 | NAME | Y |  rita /crook/
+-->2 GIVN rita
+<-- 2 | GIVN | N |  rita
+-->2 _MARNM crook
+<-- 2 | _MARNM | N |  crook
+-->1 SEX F
+<-- 1 | SEX | Y |  F
+-->1 BIRT
+<-- 1 | BIRT | Y |
+-->2 DATE 19 JAN 1920
+<-- 2 | DATE | Y |  19 JAN 1920
+-->1 DEAT
+<-- 1 | DEAT | Y |
+-->2 DATE 18 MAR 1950
+<-- 2 | DATE | Y |  18 MAR 1950
+-->1 OCCU
+<-- 1 | OCCU | N |
+-->1 FAMS @F6000000172549282035@
+<-- 1 | FAMS | Y |  @F6000000172549282035@
+-->1 RFN geni:6000000172548391395
+<-- 1 | RFN | N |  geni:6000000172548391395
+-->1 CHAN
+<-- 1 | CHAN | N |
+-->2 DATE 13 FEB 2021
+<-- 2 | DATE | Y |  13 FEB 2021
+-->3 TIME 17:46:58
+<-- 3 | TIME | N |  17:46:58
+-->0 @I6000000172549282029@ INDI
+<-- 0 | @I6000000172549282029@ | N |  INDI
+-->1 NAME Luck /crook/
+<-- 1 | NAME | Y |  Luck /crook/
+-->2 GIVN Luck
+<-- 2 | GIVN | N |  Luck
+-->2 _MARNM crook
+<-- 2 | _MARNM | N |  crook
+-->1 SEX M
+<-- 1 | SEX | Y |  M
+-->1 BIRT
+<-- 1 | BIRT | Y |
+-->2 DATE 10 JUN 1920
+<-- 2 | DATE | Y |  10 JUN 1920
+-->1 DEAT
+<-- 1 | DEAT | Y |
+-->2 DATE 25 NOV 1945
+<-- 2 | DATE | Y |  25 NOV 1945
+-->1 OCCU
+<-- 1 | OCCU | N |
+-->1 FAMS @F6000000172549282035@
+<-- 1 | FAMS | Y |  @F6000000172549282035@
+-->1 RFN geni:6000000172549282029
+<-- 1 | RFN | N |  geni:6000000172549282029
+-->1 CHAN
+<-- 1 | CHAN | N |
+-->2 DATE 13 FEB 2021
+<-- 2 | DATE | Y |  13 FEB 2021
+-->3 TIME 17:46:00
+<-- 3 | TIME | N |  17:46:00
+-->0 @I6000000172549247906@ INDI
+<-- 0 | @I6000000172549247906@ | N |  INDI
+-->1 NAME Dhruve /Roy/
+<-- 1 | NAME | Y |  Dhruve /Roy/
+-->2 GIVN Dhruve
+<-- 2 | GIVN | N |  Dhruve
+-->2 _MARNM Roy
+<-- 2 | _MARNM | N |  Roy
+-->1 SEX M
+<-- 1 | SEX | Y |  M
+-->1 BIRT
+<-- 1 | BIRT | Y |
+-->2 DATE 21 JAN 2001
+<-- 2 | DATE | Y |  21 JAN 2001
+-->1 OCCU
+<-- 1 | OCCU | N |
+-->1 FAMC @F6000000172549405913@
+<-- 1 | FAMC | Y |  @F6000000172549405913@
+-->1 RFN geni:6000000172549247906
+<-- 1 | RFN | N |  geni:6000000172549247906
+-->1 CHAN
+<-- 1 | CHAN | N |
+-->2 DATE 13 FEB 2021
+<-- 2 | DATE | Y |  13 FEB 2021
+-->3 TIME 17:37:53
+<-- 3 | TIME | N |  17:37:53
+-->0 @F6000000172547623620@ FAM
+<-- 0 | @F6000000172547623620@ | N |  FAM
+-->1 MARR
+<-- 1 | MARR | Y |
+-->2 DATE 31 JAN 1993
+<-- 2 | DATE | Y |  31 JAN 1993
+-->1 HUSB @I6000000172548472221@
+<-- 1 | HUSB | Y |  @I6000000172548472221@
+-->1 WIFE @I6000000172548785950@
+<-- 1 | WIFE | Y |  @I6000000172548785950@ 
+-->1 CHIL @I6000000172547686493@
+<-- 1 | CHIL | Y |  @I6000000172547686493@
+-->1 CHIL @I6000000172548776176@
+<-- 1 | CHIL | Y |  @I6000000172548776176@
+-->0 @F6000000172549019039@ FAM
+<-- 0 | @F6000000172549019039@ | N |  FAM
+-->1 WIFE @I6000000172548415345@
+<-- 1 | WIFE | Y |  @I6000000172548415345@
+-->1 CHIL @I6000000172548472221@
+<-- 1 | CHIL | Y |  @I6000000172548472221@
+-->1 CHIL @I6000000172549019035@
+<-- 1 | CHIL | Y |  @I6000000172549019035@
+-->1 CHIL @I6000000172548278358@
+<-- 1 | CHIL | Y |  @I6000000172548278358@
+-->0 @F6000000172549282035@ FAM
+<-- 0 | @F6000000172549282035@ | N |  FAM
+-->1 WIFE @I6000000172548391395@
+<-- 1 | WIFE | Y |  @I6000000172548391395@
+-->1 HUSB @I6000000172549282029@
+<-- 1 | HUSB | Y |  @I6000000172549282029@ 
+-->1 CHIL @I6000000172548415345@
+<-- 1 | CHIL | Y |  @I6000000172548415345@ 
+-->0 @F6000000172549405913@ FAM
+<-- 0 | @F6000000172549405913@ | N |  FAM 
+-->1 HUSB @I6000000172549019035@
+<-- 1 | HUSB | Y |  @I6000000172549019035@ 
+-->1 CHIL @I6000000172549247906@
+<-- 1 | CHIL | Y |  @I6000000172549247906@ 
+-->0 @F6000000172548388540@ FAM
+<-- 0 | @F6000000172548388540@ | N |  FAM 
+-->1 MARR
+<-- 1 | MARR | Y |  
+-->2 DATE 15 MAR 1999
+<-- 2 | DATE | Y |  15 MAR 1999 
+-->1 DIV
+<-- 1 | DIV | Y |  
+-->2 DATE 23 JUL 2005
+<-- 2 | DATE | Y |  23 JUL 2005 
+-->1 WIFE @I6000000172548278358@
+<-- 1 | WIFE | Y |  @I6000000172548278358@
+-->0 @S6000000172547686493@ SUBM
+<-- 0 | @S6000000172547686493@ | N |  SUBM
+-->1 NAME Amisha Patel
+<-- 1 | NAME | Y |  Amisha Patel
+-->0 TRLR
+<-- 0 | TRLR | Y |
